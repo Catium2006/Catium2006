@@ -41,7 +41,8 @@ Here are some ideas to get you started:
     + 数电: 看着文档能做出至少能用的东西  
     + PCB绘制: 立创EDA画出来东西反正能用, 虽然比较丑陋  
     + 电烙铁: 精通使用, 手焊QFP封装芯片无压力 ✔  
-    + 代表作: 自行车灯, 当时还拿过市里的什么创新科技奖呢, 奖状被老师给整丢了 😥  
+    + 代表作: ~自行车灯, 当时还拿过市里的什么创新科技奖呢, 奖状被老师给整丢了 😥  ~
+    + 代表作: [CatiumDeck](https://oshwhub.com/catium2006/CatiumDeck-V1-xiao-dian-nao)
 + 业余无线电
     + 业余无线电操作证`A`类 ✔  
     + 业余无线电操作证`B`类 ✔  
