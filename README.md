@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 + JavaScript: 能写, 能读, 用着没什么大问题, 前端常用 ✔  
 + PHP: 写出来仅仅是能用的程度, 所知甚少  
 + Python: 没正经摸过, 主观上不是很喜欢  
-+ ASM: 偏爱Intel语法, 会写一点点, 能读一点点  
-+ VBS: 初中的时候会写, 现在不会了  
-+ shell script: 简单脚本的程度的能力  
 + kotlin: 想学来着, 看起来挺不错, 能读, 不会写
 
 ### Others
@@ -45,10 +42,9 @@ Here are some ideas to get you started:
     + 代表作: [CatiumDeck](https://oshwhub.com/catium2006/CatiumDeck-V1-xiao-dian-nao)
 + 业余无线电
     + 业余无线电操作证`A`类 ✔  
-    + 业余无线电操作证`B`类 ✔  
-    + (当时)全市最小的拿证爱好者 ✔  
-    + ~~没有设备 没有呼号~~(年龄不够, 主要也没啥时间玩) 🤔  
-    + 做的短波收音机倒是能收不少境外台 ~~这也算业余无线电吗~~
+    + 业余无线电操作证`B`类 ✔
+    + 呼号`BD3RRY`
+    + 使用`FT-891`和`UV-K5`两部设备
 + 种花
     + 喜欢多肉类植物 😍
     + 养过最大的植物是芦荟(高达**67**厘米) 🎉
